@@ -14,14 +14,19 @@ Reference: -> https://github.com/iluwatar/java-design-patterns (Builder, Decorat
 Exercise: What are the design patterns in your project ? Identify code which you can improve.
 
 3. TDD (Junit, Mockito)
+
 Exercise: Hello world application with tests.
+
 Exercise: Try to write tests for Importer class in tour import service. Identify why it is difficult to write tests.
 
 4. Build Tools - Gradle
+
 Exercise: Hello world application with gradle.
 
 5. Checkstyle
+
 Exercise: Configure check style in the above project.
 
 6. Code coverage - jacoco
+
 Exercise: Calculate coverage for the above project.
