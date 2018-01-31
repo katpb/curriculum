@@ -11,8 +11,11 @@ Exercise: Solve 5 problems in https://projecteuler.net
 2. Design Principles & Design Patterns 
 
 Reference: -> https://github.com/iluwatar/java-design-patterns (Builder, Decorator, Facade, FactoryMethod, MVC, MVP, NullObject, Observer, Proxy, Singleton, Strategy, ValueObject)
+
 -> http://www.oodesign.com/design-principles.html 
+
 -> https://www.slideshare.net/cristalngo/software-design-principles-57388843
+
 -> SOLID, DRY, KISS, YAGNI
 
 Exercise: What are the design patterns in your project ? Identify code which you can improve.
